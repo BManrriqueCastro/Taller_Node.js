@@ -1,0 +1,16 @@
+{
+  "name": "sistema-registro-estudiantes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "keywords": [],
+  "author": "Brayan Andres Manrique Castro",
+  "license": "ISC",
+  "description": "Sistema web para registro de estudiantes utilizando Node.js y Express.",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
