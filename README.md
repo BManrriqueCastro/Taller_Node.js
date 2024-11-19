@@ -17,4 +17,4 @@ Este proyecto es una aplicación de registro de estudiantes construida con Node.
 - **JavaScript** - Para la lógica del servidor y validaciones.
 
 1. Clona el repositorio:
-   ```bashgit clone https://github.com/BManrriqueCastro/Taller_Node.js.git
+   ```bash git clone https://github.com/BManrriqueCastro/Taller_Node.js.git```
