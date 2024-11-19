@@ -15,3 +15,7 @@ Este proyecto es una aplicación de registro de estudiantes construida con Node.
 - **Express.js** - Framework web para Node.js.
 - **HTML5 y CSS3** - Para la estructura y el diseño del formulario y la página de confirmación.
 - **JavaScript** - Para la lógica del servidor y validaciones.
+
+1. Clona el repositorio:
+   ```bash
+git clone https://github.com/BManrriqueCastro/Taller_Node.js.git
